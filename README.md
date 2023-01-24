@@ -1,2 +1,2 @@
-# gitHub-desafio-new-primeiroReposit
-Desafio de projeto. 
+# GitHub-Desafio-Primeiro-Repositorio
+Desafio de projeto Git/GitHub. 
